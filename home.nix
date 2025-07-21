@@ -24,6 +24,7 @@
     bat
     eza
     tlrc
+    yt-dlp
 
     # File handling
     zip
