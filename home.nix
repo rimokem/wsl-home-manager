@@ -18,14 +18,12 @@
 
     # Terminal utilities
     zellij
-    tmux
     ripgrep
     fd
     bat
     eza
     tlrc
     yt-dlp
-    sheldon
 
     # File handling
     zip
@@ -33,7 +31,6 @@
 
     # Document processing
     typst
-    pandoc
 
     # Fonts
     noto-fonts-cjk-sans
