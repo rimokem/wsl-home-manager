@@ -25,6 +25,7 @@
     eza
     tlrc
     yt-dlp
+    sheldon
 
     # File handling
     zip

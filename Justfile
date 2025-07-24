@@ -1,7 +1,7 @@
 # Nix cleanup commands
 
 # Delete profiles older than 7 days and clean cache
-cleanup:
+clean:
     nix-collect-garbage --delete-older-than 7d
     nix store gc
 
@@ -14,5 +14,5 @@ list:
     nix-env --list-generations
 
 # Optimize store (may take time)
-optimize:
+opt:
     nix store optimise
