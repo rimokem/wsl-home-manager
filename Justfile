@@ -7,11 +7,18 @@ clean:
 
 # Apply home-manager configuration
 apply:
+    home-manager switch
+    git add .
+    git commit -m "update"
+    git push
+
+up:
     nix flake update
     home-manager switch
     git add .
     git commit -m "update"
     git push
+
 
 # List current generations
 list:
