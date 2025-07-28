@@ -1,5 +1,3 @@
-# Nix cleanup commands
-
 # Delete profiles older than 7 days and clean cache
 clean:
     nix-collect-garbage --delete-older-than 7d
