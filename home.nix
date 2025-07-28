@@ -15,7 +15,6 @@
     neovim
     claude-code
     just
-    brush
 
     # Terminal utilities
     zellij
