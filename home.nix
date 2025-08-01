@@ -10,6 +10,7 @@
   home.packages = with pkgs; [
     # Development tools
     bun
+    deno
     uv
     gh
     neovim
