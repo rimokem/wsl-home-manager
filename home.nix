@@ -14,7 +14,6 @@
     uv
     gh
     neovim
-    claude-code
     just
 
     # Terminal utilities
@@ -85,6 +84,10 @@
     };
 
     starship = {
+      enable = true;
+    };
+
+    claude-code = {
       enable = true;
     };
   };
