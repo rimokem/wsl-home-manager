@@ -90,5 +90,9 @@
     claude-code = {
       enable = true;
     };
+
+    nix-search-tv = {
+      enable = true;
+    };
   };
 }
