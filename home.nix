@@ -15,6 +15,7 @@
     gh
     neovim
     just
+    gemini-cli
 
     # Terminal utilities
     zellij
@@ -84,10 +85,6 @@
     };
 
     starship = {
-      enable = true;
-    };
-
-    claude-code = {
       enable = true;
     };
 
