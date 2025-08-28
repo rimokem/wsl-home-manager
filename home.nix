@@ -86,6 +86,7 @@
 
     starship = {
       enable = true;
+      enableBashIntegration = true;
     };
 
     nix-search-tv = {
