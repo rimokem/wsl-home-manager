@@ -9,8 +9,7 @@
   # Package management
   home.packages = with pkgs; [
     # Development tools
-    bun
-    deno
+    pnpm
     uv
     gh
     neovim
