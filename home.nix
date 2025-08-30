@@ -9,6 +9,7 @@
   # Package management
   home.packages = with pkgs; [
     # Development tools
+    bun
     pnpm
     uv
     gh
