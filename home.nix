@@ -88,9 +88,5 @@
       enable = true;
       enableBashIntegration = true;
     };
-
-    nix-search-tv = {
-      enable = true;
-    };
   };
 }
