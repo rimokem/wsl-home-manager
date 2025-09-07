@@ -24,6 +24,7 @@
     bat
     eza
     tlrc
+    ffmpeg
     yt-dlp
 
     # File handling
